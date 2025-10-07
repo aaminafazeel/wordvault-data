@@ -14,4 +14,20 @@
       }
     ]
   }
+  {
+    "word": "Lion",
+    "phonetic": "ˈlaɪ.ən",
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A large wild cat",
+            "example": "The lion is known as the king of the jungle."
+          }
+        ]
+      }
+    ]
+  }
 ]
+
