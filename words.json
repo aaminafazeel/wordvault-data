@@ -13,21 +13,110 @@
         ]
       }
     ]
-  }
+  },
   {
-    "word": "Lion",
-    "phonetic": "ˈlaɪ.ən",
+    "word": "Elephant",
+    "phonetic": "ˈel.ɪ.fənt",
     "meanings": [
       {
         "partOfSpeech": "noun",
         "definitions": [
           {
-            "definition": "A large wild cat",
-            "example": "The lion is known as the king of the jungle."
+            "definition": "A very large herbivorous mammal",
+            "example": "The elephant has a long trunk and big ears."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Tiger",
+    "phonetic": "ˈtaɪ.gər",
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A large wild cat with stripes",
+            "example": "The tiger is a powerful predator."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Giraffe",
+    "phonetic": "dʒɪˈræf",
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A tall African mammal with a very long neck",
+            "example": "The giraffe eats leaves from tall trees."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Zebra",
+    "phonetic": "ˈziː.brə",
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "An African wild horse with black-and-white stripes",
+            "example": "The zebra lives in herds on the savannah."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Kangaroo",
+    "phonetic": "ˌkæŋ.ɡəˈruː",
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A large marsupial from Australia",
+            "example": "The kangaroo carries its young in a pouch."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Penguin",
+    "phonetic": "ˈpɛŋ.ɡwɪn",
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A flightless bird living in cold regions",
+            "example": "Penguins waddle when they walk."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "word": "Dolphin",
+    "phonetic": "ˈdɒl.fɪn",
+    "meanings": [
+      {
+        "partOfSpeech": "noun",
+        "definitions": [
+          {
+            "definition": "A highly intelligent aquatic mammal",
+            "example": "The dolphin is known for its playful nature."
           }
         ]
       }
     ]
   }
 ]
-
